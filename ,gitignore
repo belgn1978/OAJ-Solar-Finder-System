@@ -1,0 +1,13 @@
+# STL exports
+stl/*.stl
+
+# Temporary files
+*.bak
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
