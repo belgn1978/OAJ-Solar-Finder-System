@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+*.autosave
+*~
+.DS_Store
+Thumbs.db
+openscad-backup-*

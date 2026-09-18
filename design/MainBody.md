@@ -10,13 +10,13 @@ It accepts interchangeable adapters underneath and removable target plates above
 
 ---
 
-## Contains
+## P1 contains
 
 - Adapter socket
-- Distance scale
+- Six target positions at 45, 50, 55, 60, 65, and 70 mm
 - Front plate mount
 - Rear plate slots
-- OAJ branding
+- Weight-reduction pockets
 
 ---
 
@@ -30,7 +30,11 @@ It accepts interchangeable adapters underneath and removable target plates above
 
 ---
 
-## Future Features
+## Status
+
+P1 STL generated and mesh validated.
+
+## Future features
 
 - Folding plates
 - Adjustable pinhole

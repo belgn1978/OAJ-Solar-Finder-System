@@ -25,21 +25,24 @@ This means the main body never needs redesigning when supporting a new telescope
 
 ## Version
 
-Current Version: 0.1
+Current Version: P1
 
 ---
 
-## Ideas
+## P1 specification
 
-- Male dovetail on adapter
-- Female socket in main body
-- Positive stop
-- Future locking clip
+- Captured male dovetail on each telescope adapter
+- Rear-entry female socket in the universal body
+- 22 mm engagement length
+- 16 mm neck width and 20 mm head width
+- 4.5 mm dovetail height
+- 0.25 mm clearance per side
+- Positive front insertion stop
 
 ---
 
 ## Future Improvements
 
-- Locking button
+- Locking button or clip after physical fit testing
 - Magnetic retention
 - Quick release

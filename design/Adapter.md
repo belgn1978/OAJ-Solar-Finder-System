@@ -46,6 +46,12 @@ Depth: 3.5 mm
 
 ---
 
+## Prototype geometry
+
+The P1 adapter reproduces the measured tapered foot and rear locating notch. A short pedestal carries the universal captured-dovetail tongue above the telescope shoe.
+
+The estimated 5.5 mm foot height is deliberately isolated in the parametric OpenSCAD source so it can be corrected after the first fit test without redesigning the universal body.
+
 ## Status
 
-Prototype Design
+P1 STL generated; physical fit validation pending.
